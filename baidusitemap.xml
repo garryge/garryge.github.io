@@ -3,14 +3,13 @@
 
 
     
-    
   <url>
     <loc>http://garryge.github.io/2018/03/10/hello-world/</loc>
-    <lastmod>2018-03-10T16:30:29.000Z</lastmod>
+    <lastmod>2018-03-18T05:30:22.000Z</lastmod>
     <data>
         <display>
         <title>Hello World</title>
-        <pubTime>2018-03-10T03:46:05.000Z</pubTime>
+        <pubTime>2018-03-09T16:00:00.000Z</pubTime>
         
         <tag>Blog</tag>
          
@@ -25,6 +24,31 @@
     </data>
     </url>
 
+    
+  <url>
+    <loc>http://garryge.github.io/2018/03/18/mac-iterm2-shortcut-key/</loc>
+    <lastmod>2018-03-18T05:30:15.000Z</lastmod>
+    <data>
+        <display>
+        <title>Mac下iTerm2的快捷键</title>
+        <pubTime>2018-03-17T16:00:00.000Z</pubTime>
+        
+        <tag>效率</tag>
+         
+        <tag>Mac</tag>
+         
+        <tag>iTerm2</tag>
+         
+         
+           
+             
+              <breadCrumb title="效率" url="http://garryge.github.io/categories/%E6%95%88%E7%8E%87/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
     
     
 </urlset>

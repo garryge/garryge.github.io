@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://garryge.github.io/"/>
-  <updated>2018-03-10T16:30:29.000Z</updated>
+  <updated>2018-03-18T05:30:15.000Z</updated>
   <id>http://garryge.github.io/</id>
   
   <author>
@@ -17,17 +17,44 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://garryge.github.io/2018/03/10/hello-world/"/>
-    <id>http://garryge.github.io/2018/03/10/hello-world/</id>
-    <published>2018-03-10T03:46:05.000Z</published>
-    <updated>2018-03-10T16:30:29.000Z</updated>
+    <title>Mac下iTerm2的快捷键</title>
+    <link href="http://garryge.github.io/2018/03/18/mac-iterm2-shortcut-key/"/>
+    <id>http://garryge.github.io/2018/03/18/mac-iterm2-shortcut-key/</id>
+    <published>2018-03-17T16:00:00.000Z</published>
+    <updated>2018-03-18T05:30:15.000Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Sun Mar 11 2018 00:39:41 GMT+0800 (CST) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;!
+        &lt;!-- build time:Sun Mar 18 2018 13:30:39 GMT+0800 (CST) --&gt;&lt;h3 id=&quot;操作环境&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#操作环境&quot;&gt;&lt;/a&gt; 操作环境&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Mac
+      
+    
+    </summary>
+    
+      <category term="效率" scheme="http://garryge.github.io/categories/%E6%95%88%E7%8E%87/"/>
+    
+    
+      <category term="效率" scheme="http://garryge.github.io/tags/%E6%95%88%E7%8E%87/"/>
+    
+      <category term="Mac" scheme="http://garryge.github.io/tags/Mac/"/>
+    
+      <category term="iTerm2" scheme="http://garryge.github.io/tags/iTerm2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://garryge.github.io/2018/03/10/hello-world/"/>
+    <id>http://garryge.github.io/2018/03/10/hello-world/</id>
+    <published>2018-03-09T16:00:00.000Z</published>
+    <updated>2018-03-18T05:30:22.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Sun Mar 18 2018 13:30:39 GMT+0800 (CST) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;!
       
     
     </summary>
