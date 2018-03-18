@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://garryge.github.io/"/>
-  <updated>2018-03-18T05:30:15.000Z</updated>
+  <updated>2018-03-18T06:02:55.000Z</updated>
   <id>http://garryge.github.io/</id>
   
   <author>
@@ -21,19 +21,21 @@
     <link href="http://garryge.github.io/2018/03/18/mac-iterm2-shortcut-key/"/>
     <id>http://garryge.github.io/2018/03/18/mac-iterm2-shortcut-key/</id>
     <published>2018-03-17T16:00:00.000Z</published>
-    <updated>2018-03-18T05:30:15.000Z</updated>
+    <updated>2018-03-18T06:02:55.000Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Sun Mar 18 2018 13:30:39 GMT+0800 (CST) --&gt;&lt;h3 id=&quot;操作环境&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#操作环境&quot;&gt;&lt;/a&gt; 操作环境&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Mac
+        &lt;!-- build time:Sun Mar 18 2018 14:03:04 GMT+0800 (CST) --&gt;&lt;h3 id=&quot;操作环境&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#操作环境&quot;&gt;&lt;/a&gt; 操作环境&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Mac
       
     
     </summary>
     
-      <category term="效率" scheme="http://garryge.github.io/categories/%E6%95%88%E7%8E%87/"/>
+      <category term="工具篇" scheme="http://garryge.github.io/categories/%E5%B7%A5%E5%85%B7%E7%AF%87/"/>
     
+    
+      <category term="工具" scheme="http://garryge.github.io/tags/%E5%B7%A5%E5%85%B7/"/>
     
       <category term="效率" scheme="http://garryge.github.io/tags/%E6%95%88%E7%8E%87/"/>
     
@@ -54,7 +56,7 @@
     
       
       
-        &lt;!-- build time:Sun Mar 18 2018 13:30:39 GMT+0800 (CST) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;!
+        &lt;!-- build time:Sun Mar 18 2018 14:03:04 GMT+0800 (CST) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;!
       
     
     </summary>
