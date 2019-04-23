@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://garryge.github.io/"/>
-  <updated>2019-04-23T13:28:29.822Z</updated>
+  <updated>2019-04-23T13:33:30.120Z</updated>
   <id>http://garryge.github.io/</id>
   
   <author>
@@ -17,17 +17,17 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>git-intro-practice</title>
+    <title>Git入门与实践</title>
     <link href="http://garryge.github.io/2019/04/23/git-intro-practice/"/>
     <id>http://garryge.github.io/2019/04/23/git-intro-practice/</id>
     <published>2019-04-22T16:00:00.000Z</published>
-    <updated>2019-04-23T13:28:29.822Z</updated>
+    <updated>2019-04-23T13:33:30.120Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Tue Apr 23 2019 21:28:34 GMT+0800 (China Standard Time) --&gt;&lt;h2 id=&quot;初始设置&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#初始设置&quot;&gt;&lt;/a&gt; 初始设置
+        &lt;!-- build time:Tue Apr 23 2019 21:33:43 GMT+0800 (China Standard Time) --&gt;&lt;p&gt;摘录自《GitHub入门与实践》&lt;/p&gt;&lt;h2 id=&quot;初始设置&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot;
       
     
     </summary>
@@ -50,7 +50,7 @@
     
       
       
-        &lt;!-- build time:Tue Apr 23 2019 21:23:37 GMT+0800 (China Standard Time) --&gt;&lt;h3 id=&quot;操作环境&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#操作环境&quot;&gt;&lt;/a&gt; 操作环境
+        &lt;!-- build time:Tue Apr 23 2019 21:33:43 GMT+0800 (China Standard Time) --&gt;&lt;h3 id=&quot;操作环境&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#操作环境&quot;&gt;&lt;/a&gt; 操作环境
       
     
     </summary>
@@ -79,7 +79,7 @@
     
       
       
-        &lt;!-- build time:Tue Apr 23 2019 21:23:37 GMT+0800 (China Standard Time) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noo
+        &lt;!-- build time:Tue Apr 23 2019 21:33:43 GMT+0800 (China Standard Time) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noo
       
     
     </summary>
