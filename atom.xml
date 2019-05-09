@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://garryge.github.io/"/>
-  <updated>2019-04-23T13:33:30.120Z</updated>
+  <updated>2019-05-09T14:51:51.381Z</updated>
   <id>http://garryge.github.io/</id>
   
   <author>
@@ -17,17 +17,42 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Git入门与实践</title>
-    <link href="http://garryge.github.io/2019/04/23/git-intro-practice/"/>
-    <id>http://garryge.github.io/2019/04/23/git-intro-practice/</id>
-    <published>2019-04-22T16:00:00.000Z</published>
-    <updated>2019-04-23T13:33:30.120Z</updated>
+    <title>面向对象设计</title>
+    <link href="http://garryge.github.io/2019/05/09/oo/"/>
+    <id>http://garryge.github.io/2019/05/09/oo/</id>
+    <published>2019-05-08T16:00:00.000Z</published>
+    <updated>2019-05-09T14:51:51.381Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Fri Apr 26 2019 10:19:18 GMT+0800 (China Standard Time) --&gt;&lt;p&gt;摘录自《GitHub入门与实践》&lt;/p&gt;&lt;h2 id=&quot;初始设置&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot;
+        &lt;!-- build time:Thu May 09 2019 22:51:57 GMT+0800 (China Standard Time) --&gt;&lt;p&gt;摘录自《设计模式：可复用面向对象软件的基础》&lt;/p&gt;&lt;ol&gt;&lt;li&gt;设计面向对象软件时，你必须找到相关的对象，以适当的粒度将
+      
+    
+    </summary>
+    
+      <category term="理论篇" scheme="http://garryge.github.io/categories/%E7%90%86%E8%AE%BA%E7%AF%87/"/>
+    
+    
+      <category term="理论" scheme="http://garryge.github.io/tags/%E7%90%86%E8%AE%BA/"/>
+    
+      <category term="面向对象" scheme="http://garryge.github.io/tags/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Git入门与实践</title>
+    <link href="http://garryge.github.io/2019/04/23/git-intro-practice/"/>
+    <id>http://garryge.github.io/2019/04/23/git-intro-practice/</id>
+    <published>2019-04-22T16:00:00.000Z</published>
+    <updated>2019-05-09T14:48:46.601Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Thu May 09 2019 22:51:57 GMT+0800 (China Standard Time) --&gt;&lt;p&gt;摘录自《GitHub入门与实践》&lt;/p&gt;&lt;h2 id=&quot;初始设置&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot;
       
     
     </summary>
@@ -50,7 +75,7 @@
     
       
       
-        &lt;!-- build time:Fri Apr 26 2019 10:19:18 GMT+0800 (China Standard Time) --&gt;&lt;h3 id=&quot;操作环境&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#操作环境&quot;&gt;&lt;/a&gt; 操作环境
+        &lt;!-- build time:Thu May 09 2019 22:51:57 GMT+0800 (China Standard Time) --&gt;&lt;h3 id=&quot;操作环境&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#操作环境&quot;&gt;&lt;/a&gt; 操作环境
       
     
     </summary>
@@ -79,7 +104,7 @@
     
       
       
-        &lt;!-- build time:Fri Apr 26 2019 10:19:18 GMT+0800 (China Standard Time) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noo
+        &lt;!-- build time:Thu May 09 2019 22:51:57 GMT+0800 (China Standard Time) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noo
       
     
     </summary>
